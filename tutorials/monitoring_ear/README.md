@@ -87,11 +87,11 @@ eacct
 ```
 Query a specific job
 ```
-eacct -J 123456789
+eacct -j 123456789
 ```
 Query a specific job-step
 ```
-eacct -J 123456789.0
+eacct -j 123456789.0
 ```
 Show metrics (averaged per job.stepid) from 3 jobs
 ```
